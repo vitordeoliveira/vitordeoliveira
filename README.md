@@ -25,6 +25,9 @@ As an Engineer, I have already worked with more languages and techs than I can c
 
 I'm a Full Stack Software Engineer at Volkswagen AG
 
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordeoliveira&theme=calm&hide=jupyter%20notebook&layout=compact&langs_count=6)
+
 Contact 🤝
 
 - [Twitter](https://twitter.com/vitor_olive_50)
