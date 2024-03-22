@@ -30,6 +30,6 @@ I'm a Full Stack Software Engineer at Volkswagen AG
 
 Contact 🤝
 
-- [Twitter](https://twitter.com/vitor_olive_50)
-- [LinkedIn](https://www.linkedin.com/in/vitor-de-oliveira)
-- [Personal Website](https://www.vitor.ws) \(Work in progress\)
+- [Twitter](https://twitter.com/vitor_olive_50){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/vitor-de-oliveira){:target="_blank"}
+- [Rust Blog](https://vitor.ws){:target="_blank"}
