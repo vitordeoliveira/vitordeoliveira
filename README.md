@@ -23,7 +23,7 @@ By heart, I am a Rustacean 🦀.
 
 As an Engineer, I have already worked with more languages and techs than I can count. But my focus is Rust and JS
 
-I'm a Full Stack Software Engineer at Volkswagen AG
+I'm a Full Stack Software Engineer at Volkswagen AG.
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordeoliveira&theme=calm&hide=jupyter%20notebook&layout=compact&langs_count=6)
