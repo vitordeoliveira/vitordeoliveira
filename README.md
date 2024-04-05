@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Vitor de Oliveira 🦀
+# Hi, I'm Vitor de Oliveira 🦀.
 I'm a developer based in Hannover - Germany
 
 My Main professional tech is JS and everything around (TS, React, Node, etc...).
