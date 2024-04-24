@@ -21,7 +21,7 @@ My Main professional tech is JS and everything around (TS, React, Node, etc...).
 
 By heart, I am a Rustacean 🦀.
 
-As an Engineer, I have already worked with more languages and techs than I can count. But my focus is Rust and JS
+As an Engineer, I have already worked with more languages and techs than I can count. But my focus is Rust and JS.
 
 I'm a Full Stack Software Engineer at Volkswagen AG.
 
