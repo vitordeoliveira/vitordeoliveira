@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Vitor de Oliveira 🦀.
+# Hi, I'm Vitor de Oliveira 🦀
 I'm a developer based in Hannover - Germany (Moving to Portugal soon)...
 
-My Main professional tech is JS and everything around (TS, React, Node, etc...).
+My Main professional tech is JS and everything around (TS, React, Node, etc...)
 
-By heart, I am a Rustacean 🦀.
+By heart, I am a Rustacean 🦀
 
 As an Engineer, I have already worked with more languages and techs than I can count. But my focus is Rust and JS.
 
