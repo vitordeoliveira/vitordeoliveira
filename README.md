@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- [Instagram](https://www.instagram.com/vitor_olive_/)
 -->
 
 # Hi, I'm Vitor de Oliveira 🦀
@@ -30,6 +32,7 @@ I'm a Full Stack Software Engineer at Volkswagen Digital Solutions.
 
 Contact 🤝
 
-- [Instagram](https://www.instagram.com/vitor_olive_/)
-- [LinkedIn](https://www.linkedin.com/in/vitor-de-oliveira)
-- [Rust Blog](https://vitor.ws)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-de-oliveira)
+[![Rust Blog](https://img.shields.io/badge/Rust%20Blog-B7410E?style=for-the-badge&logo=rust&link=https://vitor.rs)](https://vitor.rs)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&link=https://www.instagram.com/vitor_olive_/)](https://www.instagram.com/vitor_olive_/)
