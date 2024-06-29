@@ -33,5 +33,3 @@ Contact 🤝
 - [Instagram](https://www.instagram.com/vitor_olive_/)
 - [LinkedIn](https://www.linkedin.com/in/vitor-de-oliveira)
 - [Rust Blog](https://vitor.ws)
-
-![](https://komarev.com/ghpvc/?username=vitordeoliveira)
