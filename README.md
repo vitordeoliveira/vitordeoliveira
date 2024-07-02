@@ -34,5 +34,5 @@ Contact 🤝
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-de-oliveira)
-[![Rust Blog](https://img.shields.io/badge/Rust%20Blog-B7410E?style=for-the-badge&logo=rust&link=https://vitor.rs)](https://vitor.rs)
+[![Rust Blog](https://img.shields.io/badge/Rust%20Blog-B7410E?style=for-the-badge&logo=rust&link=https://vitor.rs)](https://vitor.ws)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&link=https://www.instagram.com/vitor_olive_/)](https://www.instagram.com/vitor_olive_/)
