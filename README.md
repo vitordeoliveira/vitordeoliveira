@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 # Hi, I'm Vitor de Oliveira 🦀
 I'm a developer based in Hannover - Germany (Moving to Portugal soon)...
 
-My Main professional tech is JS and everything around (TS, React, Node, etc...)
+My main professional tech is JS and everything around it (TS, React, Node, etc.)
 
 By heart, I am a Rustacean 🦀
 
-As an Engineer, I have already worked with more languages and techs than I can count, but my focus is Rust and JS.
+As an engineer, I have already worked with more languages and techs than I can count, but my focus is on Rust and JS.
 
 I'm a Full Stack Software Engineer at Volkswagen Digital Solutions.
 
