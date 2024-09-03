@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Vitor de Oliveira 🦀
-I'm a developer based in Hannover, Germany -> Moving to Lisbon, Portugal...
+I'm a developer based in Lisbon, Portugal.
 
 My main professional tech is JS and everything around it (TS, React, Node, etc.)
 
