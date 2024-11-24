@@ -21,7 +21,7 @@ I'm a developer that is now based in Lisbon, Portugal. (Not in germany anymore).
 
 My main professional tech is JS and everything around it (TS, React, Node, etc...)
 
-By heart, I am a Rustacean 🦀
+By heart, I am a Rustacean 🦀.
 
 As an engineer, I have already worked with more languages and techs than I can count, but my focus is on Rust and JS.
 
